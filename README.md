@@ -1,6 +1,6 @@
 # 微信多开（macOS）
 
-> 一句话说明：**在 Mac 上生成一个可以独立登录第二个微信账号的 `WeChat2.app`，不需要关闭 SIP，不需要第三方工具，一条命令完成。**
+> 简介：**在 Mac 上生成一个可以独立登录第二个微信账号的 `WeChat2.app`，不需要关闭 SIP，不需要第三方工具，一条命令完成。**
 
 <p>
   <img src="https://img.shields.io/badge/platform-macOS%2011%2B-blue" alt="platform">
